@@ -1,0 +1,662 @@
+#EXTM3U
+#EXTINF:-1 group-title="Региональные",12 канал (Омск)
+http://hls.peers.tv/streaming/ortrk12/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",1HD
+http://hls.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",24 док
+http://hls.peers.tv/streaming/24doc/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2 (+4)
+http://hls.peers.tv/streaming/2x2tv/16/variable.m3u8
+#EXTINF:-1 group-title="Региональные",360 Подмосковье (Москва)
+http://hls.peers.tv/streaming/360tv/126/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",365 Дней
+http://hls.peers.tv/streaming/365_days/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",43 Канал
+http://hls.peers.tv/streaming/43_kanal/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",49 КАНАЛ
+http://hls.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",8 канал
+http://hls.peers.tv/streaming/8_kanal/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",8 канал (Красноярск)
+http://hls.peers.tv/streaming/ya1pm/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",86 Канал (Сургут)
+http://hls.peers.tv/streaming/86/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",AMEDIA HIT HD
+http://hls.peers.tv/streaming/amedia_hit/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Family HD
+http://hls.peers.tv/streaming/animal_family_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet
+http://hls.peers.tv/streaming/animalplanet/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Animal Planet HD
+http://hls.peers.tv/streaming/animal_planet_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Atameken Business Channel
+http://hls.peers.tv/streaming/atameken/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Bridge TV
+http://hls.peers.tv/streaming/bridge/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",CINEMA
+http://hls.peers.tv/streaming/ipark/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Cartoon Network
+http://hls.peers.tv/streaming/cartoonnetwork/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",DTX
+http://hls.peers.tv/streaming/discoveryworld/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Da Vinci learning
+http://hls.peers.tv/streaming/da_vinci/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery
+http://hls.peers.tv/streaming/discovery/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery HD
+http://hls.peers.tv/streaming/discovery_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://hls.peers.tv/streaming/discoveryscience/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+http://hls.peers.tv/streaming/europaplustv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1
+http://hls.peers.tv/streaming/eurosport/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+http://hls.peers.tv/streaming/eurosport_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2
+http://hls.peers.tv/streaming/eurosport2/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+http://hls.peers.tv/streaming/eurosport_2_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Extreme sports
+http://hls.peers.tv/streaming/extreme_sports/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Fashion TV
+http://hls.peers.tv/streaming/fashion/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Fashion TV HD
+http://hls.peers.tv/streaming/fashion_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox
+http://hls.peers.tv/streaming/fox/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox HD
+http://hls.peers.tv/streaming/fox_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox life
+http://hls.peers.tv/streaming/foxlife/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Fox life HD
+http://hls.peers.tv/streaming/foxlife_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Galaxy
+http://hls.peers.tv/streaming/galaxy_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Ginger HD
+http://hls.peers.tv/streaming/ginger_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",GlobalStar TV
+http://hls.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",HD Life
+http://hls.peers.tv/streaming/hd_life/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",HD Наша Сибирь
+http://hls.peers.tv/streaming/nasha_sibir_hd/16/h720/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ID xtra
+http://hls.peers.tv/streaming/investigationdiscovery/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",IНТЕР+
+http://hls.peers.tv/streaming/interplus/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские",JimJam
+http://hls.peers.tv/streaming/jim_jam/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",KINO 24
+http://hls.peers.tv/streaming/kino24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Dance
+http://hls.peers.tv/streaming/mtv_dance/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV HD
+http://hls.peers.tv/streaming/mtv_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Hits
+http://hls.peers.tv/streaming/mtv_hits/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Live HD
+http://hls.peers.tv/streaming/mtv_live_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Russia
+http://hls.peers.tv/streaming/mtv_russia/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Mezzo Live HD
+http://hls.peers.tv/streaming/mezzo_live_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box TV
+http://hls.peers.tv/streaming/musboxtv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Myzen HD
+http://hls.peers.tv/streaming/myzen_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://hls.peers.tv/streaming/nat_geo_wild/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://hls.peers.tv/streaming/nat_geo_wild_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic
+http://hls.peers.tv/streaming/natgeo/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://hls.peers.tv/streaming/national_geographic_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Nick Jr.
+http://hls.peers.tv/streaming/nick_jr/16/variable.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://hls.peers.tv/streaming/nickelodeon/16/variable.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon
+http://hls.peers.tv/streaming/nickelodeon/126/variable.m3u8
+#EXTINF:-1 group-title="Детские",Nickelodeon HD
+http://hls.peers.tv/streaming/nickelodeon_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",OutDoor Channel HD
+http://hls.peers.tv/streaming/outdoor_channel_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",RU.TV
+http://hls.peers.tv/streaming/rutv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",RUSSIAN MUSICBOX
+http://hls.peers.tv/streaming/musboxru/126/variable.m3u8
+#EXTINF:-1 group-title="Музыка",RUSSIAN MUSICBOX
+http://hls.peers.tv/streaming/musboxru/16/variable.m3u8
+#EXTINF:-1 group-title="Новостные",Russia Today
+http://hls.peers.tv/streaming/russiatoday/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Russia Today Doc
+http://hls.peers.tv/streaming/russia_today_doc/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Russia Today Doc HD
+http://hls.peers.tv/streaming/russia_today_doc_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Russia Today HD
+http://hls.peers.tv/streaming/russia_today_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Russian Travel Guide
+http://hls.peers.tv/streaming/rustravel/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Russian Travel Guide HD
+http://hls.peers.tv/streaming/rtghd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Shop & Show
+http://hls.peers.tv/streaming/shop_show/16/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",Shop 24
+http://hls.peers.tv/streaming/shop24/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Shopping Live
+http://hls.peers.tv/streaming/shopping_live/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Channel
+http://hls.peers.tv/streaming/set/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Channel HD
+http://hls.peers.tv/streaming/set_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Sony Sci-Fi
+http://hls.peers.tv/streaming/sonyscifi/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC
+http://hls.peers.tv/streaming/tlc/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",TLC HD
+http://hls.peers.tv/streaming/tlc_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000
+http://hls.peers.tv/streaming/tv1000/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000 Action
+http://hls.peers.tv/streaming/tv1000_action/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",TV1000 Русское кино
+http://hls.peers.tv/streaming/tv_1000_rus_kino/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",TVXXI
+http://hls.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Tiji
+http://hls.peers.tv/streaming/tiji/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel+ Adventure
+http://hls.peers.tv/streaming/travad/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel+ Adventure HD
+http://hls.peers.tv/streaming/travel_adventure_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",VH1 Classic
+http://hls.peers.tv/streaming/vh1/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Comedy
+http://hls.peers.tv/streaming/tv1000_comedy_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Megahit
+http://hls.peers.tv/streaming/tv1000_megahit_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Premiere
+http://hls.peers.tv/streaming/tv1000_premium_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",ViP Serial
+http://hls.peers.tv/streaming/viasat_golf_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Explorer
+http://hls.peers.tv/streaming/viasat_explorer/16/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat History
+http://hls.peers.tv/streaming/viasat_history/16/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+http://hls.peers.tv/streaming/viasat_nature/16/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+http://hls.peers.tv/streaming/viasat_sport_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",ZEE TV
+http://hls.peers.tv/streaming/zee-tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Zоопарк
+http://hls.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",А1 Смотри один
+http://hls.peers.tv/streaming/amedia1/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",А2
+http://hls.peers.tv/streaming/amedia_2/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",А2
+http://hls.peers.tv/streaming/amedia_2/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",АИСТ
+http://hls.peers.tv/streaming/aist/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Авто 24
+http://hls.peers.tv/streaming/avto_24/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Авто плюс
+http://hls.peers.tv/streaming/auto_plus/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Академ ТВ
+http://hls.peers.tv/streaming/academtv/16/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Архыз24
+http://hls.peers.tv/streaming/arhyz24/126/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Астрахань 24 HD
+http://hls.peers.tv/streaming/astrahan_24_hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",БИМ ТВ
+http://hls.peers.tv/streaming/bimtv/126/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",БОБЕР
+http://hls.peers.tv/streaming/bobyor/16/variable.m3u8
+#EXTINF:-1 group-title="Региональные",БСТ
+http://hls.peers.tv/streaming/bst/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Баланс-ТВ
+http://hls.peers.tv/streaming/balance/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Барс плюс (Иваново)
+http://hls.peers.tv/streaming/barsplus/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Беларусь 24
+http://hls.peers.tv/streaming/belarus_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Бокс ТВ
+http://hls.peers.tv/streaming/boks_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Большая Азия
+http://hls.peers.tv/streaming/bolshaya_aziya/16/copy_a/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",ВМЕСТЕ-РФ
+http://hls.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Ветта 24
+http://hls.peers.tv/streaming/vetta_24/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Восток ТВ
+http://hls.peers.tv/streaming/tmb_ru/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Время
+http://hls.peers.tv/streaming/time/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Горная страна
+http://hls.peers.tv/streaming/gornaya_strana/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Губерния (Хабаровск)
+http://hls.peers.tv/streaming/tk_gubernia/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Детский
+http://hls.peers.tv/streaming/forkids/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Детский мир
+http://hls.peers.tv/streaming/detskij_mir/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Дисней (+3)
+http://hls.peers.tv/streaming/disney/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Дождь
+http://hls.peers.tv/streaming/rain/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Дождь HD
+http://hls.peers.tv/streaming/rain_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Дом Кино
+http://hls.peers.tv/streaming/dom_kino/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Дом кино Премиум HD
+http://hls.peers.tv/streaming/dom_kino_premium/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Домашний
+http://hls.peers.tv/streaming/domashny/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Домашний
+http://hls.peers.tv/streaming/domashny/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Домашний (Новосибирск)
+http://hls.peers.tv/streaming/domashny/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Драйв
+http://hls.peers.tv/streaming/drive/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",ЕГЭ
+http://hls.peers.tv/streaming/ege/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Евпатория ТВ
+http://hls.peers.tv/streaming/evpatorija/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Еврокино
+http://hls.peers.tv/streaming/eurokino/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Евроновости
+http://hls.peers.tv/streaming/euronews/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Евроновости
+http://hls.peers.tv/streaming/euronews/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Еда HD
+http://hls.peers.tv/streaming/eda_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Жар птица
+http://hls.peers.tv/streaming/firebird/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Живая планета
+http://hls.peers.tv/streaming/zhivaya_planeta/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Живи!
+http://hls.peers.tv/streaming/jv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородная жизнь
+http://hls.peers.tv/streaming/zagorod_zh/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Звезда
+http://hls.peers.tv/streaming/zvezda/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Звезда
+http://hls.peers.tv/streaming/zvezda/16/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Здоровье
+http://hls.peers.tv/streaming/tonus_tv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Зоо ТВ
+http://hls.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Иллюзион+
+http://hls.peers.tv/streaming/illyuzion/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Индийское кино
+http://hls.peers.tv/streaming/indiatv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",История
+http://hls.peers.tv/streaming/istoriya/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",КРИК-ТВ
+http://hls.peers.tv/streaming/krik_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ
+http://hls.peers.tv/streaming/khl/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+http://hls.peers.tv/streaming/kxl_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
+http://hls.peers.tv/streaming/kaleydoskop/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Карусель
+http://hls.peers.tv/streaming/karusel/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Кино ТВ HD
+http://hls.peers.tv/streaming/kino_tv_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",КиноХит
+http://hls.peers.tv/streaming/kinohit/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинокомедия
+http://hls.peers.tv/streaming/comedytv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Киномикс
+http://hls.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Кинопремьера HD
+http://hls.peers.tv/streaming/premera/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносвидание
+http://hls.peers.tv/streaming/kinoklub/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Киносемья
+http://hls.peers.tv/streaming/hd_kino/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Красная линия
+http://hls.peers.tv/streaming/red_line/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Классика Кино
+http://hls.peers.tv/streaming/klassikakino/16/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Кубань 24 ОРБИТА
+http://hls.peers.tv/streaming/kuban24/126/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Курай
+http://hls.peers.tv/streaming/kuray/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Кухня ТВ
+http://hls.peers.tv/streaming/kitchentv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",ЛДПР.ТВ
+http://hls.peers.tv/streaming/ldpr_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Любимое кино
+http://hls.peers.tv/streaming/favmovie/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Ля-Минор
+http://hls.peers.tv/streaming/la_minor/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",МАТЧ! Арена HD
+http://hls.peers.tv/streaming/sport_1_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ
+http://hls.peers.tv/streaming/muz_tvnew/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",МУЗ-ТВ
+http://hls.peers.tv/streaming/muz_tvnew/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Мама
+http://hls.peers.tv/streaming/motherchi/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Мамонтенок
+http://hls.peers.tv/streaming/mmntk/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",МатурТВ
+http://hls.peers.tv/streaming/matur/126/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://hls.peers.tv/streaming/sport/126/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://hls.peers.tv/streaming/sport/16/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+http://msk-online.peers.tv/channel/Match_hls.m3u8
+#EXTINF:-1 group-title="Спорт",Матч ТВ HD
+http://hls.peers.tv/streaming/match_tv_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Арена
+http://hls.peers.tv/streaming/sport1/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Матч! Боец
+http://hls.peers.tv/streaming/boets/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Игра
+http://hls.peers.tv/streaming/sport_2/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Наш Спорт
+http://hls.peers.tv/streaming/match_nash_sport/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://hls.peers.tv/streaming/match_football1_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+http://hls.peers.tv/streaming/match_football1_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://hls.peers.tv/streaming/match_football2_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+http://hls.peers.tv/streaming/match_football2_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://hls.peers.tv/streaming/match_football3_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+http://hls.peers.tv/streaming/match_football3_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Региональные",Миллет
+http://hls.peers.tv/streaming/millet/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Министерство Идей
+http://hls.peers.tv/streaming/minofideas/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Мир
+http://hls.peers.tv/streaming/mir/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Мир
+http://hls.peers.tv/streaming/mir/126/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Мир Premium HD
+http://hls.peers.tv/streaming/mir_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Новостные",Мир 24
+http://hls.peers.tv/streaming/mir24/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",Мир 24 HD
+http://hls.peers.tv/streaming/mir24hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Мир HD
+http://hls.peers.tv/streaming/mir_hd/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Мир HD
+http://hls.peers.tv/streaming/mir_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Мир сериала
+http://hls.peers.tv/streaming/mir_seriala/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Мир увлечений
+http://hls.peers.tv/streaming/mir_uvlecheniy/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Москва-24
+http://hls.peers.tv/streaming/moskva_24/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Московский образовательный
+http://hls.peers.tv/streaming/dogm/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://hls.peers.tv/streaming/my_planet/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Мужское Кино
+http://hls.peers.tv/streaming/interesnoe_tv/16/variable.m3u8
+#EXTINF:-1 group-title="Мужские",Мужской
+http://hls.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Мульт
+http://hls.peers.tv/streaming/mult/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",МультМузыка
+http://hls.peers.tv/streaming/strana/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Мультимания
+http://hls.peers.tv/streaming/multimania/16/variable.m3u8
+#EXTINF:-1 group-title="Детские",Мультимания
+http://hls.peers.tv/streaming/multimania/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",НТВ (+4)
+http://hls.peers.tv/streaming/ntv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",НТВ сериал
+http://hls.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",НТВ хит
+http://hls.peers.tv/streaming/ntv_hit/16/vh1w/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные",Надежда
+http://hls.peers.tv/streaming/hopetv/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Настоящее страшное ТВ
+http://hls.peers.tv/streaming/nstv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Наука
+http://hls.peers.tv/streaming/nauka_20/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Наш Футбол
+http://hls.peers.tv/streaming/nash_futbol/16/variable.m3u8
+#EXTINF:-1 group-title="Спорт",Наш Футбол HD
+http://hls.peers.tv/streaming/nashfootballhd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Наша Сибирь
+http://hls.peers.tv/streaming/nasha_sibir_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Наше новое кино
+http://hls.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Ника ТВ
+http://hls.peers.tv/streaming/nika/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Новое телевидение
+http://hls.peers.tv/streaming/novoe_televidenie/318/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Новосибирские новости
+http://hls.peers.tv/streaming/nsknews/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Ностальгия
+http://hls.peers.tv/streaming/nostalgy/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",О2ТВ
+http://hls.peers.tv/streaming/o2tv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ Челябинск
+http://hls.peers.tv/streaming/otv_chlb/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ОТВ24
+http://hls.peers.tv/streaming/otv24_ekb/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",ОТР
+http://hls.peers.tv/streaming/otvrus/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",ОТР
+http://hls.peers.tv/streaming/otvrus/126/variable.m3u8
+#EXTINF:-1 group-title="Региональные",ОТС
+http://hls.peers.tv/streaming/ots/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Оружие
+http://hls.peers.tv/streaming/oruzhie/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Открытый Мир
+http://hls.peers.tv/streaming/open_mir/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Охота и Рыбалка
+http://hls.peers.tv/streaming/hafi/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Охотник и рыболов
+http://hls.peers.tv/streaming/ohotnik_i_rybolov/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Охотник и рыболов HD
+http://hls.peers.tv/streaming/ohotnik_i_rybolov_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",ПРО БИЗНЕС
+http://hls.peers.tv/streaming/pro_biznes/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Первый
+http://hls.peers.tv/streaming/1kanal/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Первый
+http://hls.peers.tv/streaming/1kanal/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Первый HD
+http://hls.peers.tv/streaming/1kanal_hd/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Первый HD
+http://hls.peers.tv/streaming/1kanal_hd/126/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый вегетарианский
+http://hls.peers.tv/streaming/pervyy_vegetarianskiy/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый образовательный
+http://hls.peers.tv/streaming/1_obraz/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Первый образовательный
+http://hls.peers.tv/streaming/1_obraz/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Пес и Ко
+http://hls.peers.tv/streaming/pyos_i_ko/16/variable.m3u8
+#EXTINF:-1 group-title="Детские",Пингвин ЛоЛо
+http://hls.peers.tv/streaming/pingvin_lolo/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Планета HD
+http://hls.peers.tv/streaming/iq_hd/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Про100ТВ
+http://hls.peers.tv/streaming/pro100/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Продвижение
+http://hls.peers.tv/streaming/prodvizhenie/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Психология 21
+http://hls.peers.tv/streaming/psych_21/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница
+http://hls.peers.tv/streaming/friday/16/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",Пятница
+http://hls.peers.tv/streaming/friday/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Пятый
+http://hls.peers.tv/streaming/5kanal/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Пятый
+http://hls.peers.tv/streaming/5kanal/16/variable.m3u8
+#EXTINF:-1 group-title="Новостные",РБК
+http://hls.peers.tv/streaming/rbk/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",РБК
+http://hls.peers.tv/streaming/rbk/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",РЕН-ТВ
+http://hls.peers.tv/streaming/rentv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Радость моя
+http://hls.peers.tv/streaming/radost_moj/16/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Ратник
+http://hls.peers.tv/streaming/ratnik/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Рен ТВ
+http://hls.peers.tv/streaming/rentv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Ретро
+http://hls.peers.tv/streaming/retro/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Россия 1
+http://hls.peers.tv/streaming/rossija/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Россия 1
+http://hls.peers.tv/streaming/rossija/126/variable.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24
+http://hls.peers.tv/streaming/vesti/16/variable.m3u8
+#EXTINF:-1 group-title="Новостные",Россия 24
+http://hls.peers.tv/streaming/vesti/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Россия HD
+http://hls.peers.tv/streaming/russiahd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Россия К
+http://hls.peers.tv/streaming/kultura/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Россия К
+http://hls.peers.tv/streaming/kultura/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский Бестселлер
+http://hls.peers.tv/streaming/russia_best/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский Роман
+http://hls.peers.tv/streaming/russian_roman/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский детектив
+http://hls.peers.tv/streaming/russkiy_detektiv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",Русский иллюзион
+http://hls.peers.tv/streaming/russian_illusion/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Детские",Рыжий
+http://hls.peers.tv/streaming/red/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",С1
+http://hls.peers.tv/streaming/s1/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные",СПАС
+http://hls.peers.tv/streaming/spas/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",СТРК
+http://hls.peers.tv/streaming/strk/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",СТС love
+http://hls.peers.tv/streaming/sts_love/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",СТС Мир
+http://hls.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Санкт-Петербург
+http://hls.peers.tv/streaming/topspb/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Саратов 24
+http://hls.peers.tv/streaming/saratov_24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://hls.peers.tv/streaming/sarafan/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Сделано в Кузбассе HD
+http://hls.peers.tv/streaming/sdelano_v_kuzbasse_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Синергия ТВ
+http://hls.peers.tv/streaming/sinergiya_tv/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Детские",СмайликТВ
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные",Союз
+http://hls.peers.tv/streaming/soyuz/16/variable.m3u8
+#EXTINF:-1 group-title="Фильмы",Советское кино
+http://hls.peers.tv/streaming/sovetskoekino/16/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",Супер
+http://hls.peers.tv/streaming/super/126/variable.m3u8
+#EXTINF:-1 group-title="Региональные",СКАТ 24
+http://hls.peers.tv/streaming/skat_24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Сочи 24
+http://hls.peers.tv/streaming/sochi24/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Фильмы",ТВ-3
+http://hls.peers.tv/streaming/tv3/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",ТВЦ
+http://hls.peers.tv/streaming/tvc/126/variable.m3u8
+#EXTINF:-1 group-title="Центральные",ТВЦ
+http://hls.peers.tv/streaming/tvc/16/variable.m3u8
+#EXTINF:-1 group-title="Региональные",ТМ-КВАНТ
+http://hls.peers.tv/streaming/tmkvant/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ТНВ
+http://hls.peers.tv/streaming/tnv/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ТНВ Татарстан
+http://hls.peers.tv/streaming/tnv_tatarstan/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://hls.peers.tv/streaming/tnt/16/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://hls.peers.tv/streaming/tnt/126/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ
+http://msk-online.peers.tv/channel/TNT_HD_OTT_hls.m3u8
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://hls.peers.tv/streaming/tnt_music/126/variable.m3u8
+#EXTINF:-1 group-title="Музыка",ТНТ Music
+http://hls.peers.tv/streaming/tnt_music/16/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://hls.peers.tv/streaming/tnt4/126/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",ТНТ4
+http://hls.peers.tv/streaming/tnt4/16/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Твой дом
+http://hls.peers.tv/streaming/tvoy_dom/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Театр
+http://hls.peers.tv/streaming/teatr/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ТелеБалтНьюс
+http://hls.peers.tv/streaming/tbn/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Телекафе
+http://hls.peers.tv/streaming/telekafe/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Телепутешествия
+http://hls.peers.tv/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Телепутешествия HD
+http://hls.peers.tv/streaming/teleputeshestvija_hd/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Мужские",Техно 24
+http://hls.peers.tv/streaming/24techno/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Тивиком (Улан-Удэ)
+http://hls.peers.tv/streaming/tivikom/16/variable.m3u8
+#EXTINF:-1 group-title="Центральные",Точка ТВ
+http://hls.peers.tv/streaming/tochka_tv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Точка отрыва
+http://hls.peers.tv/streaming/tochka_otryva/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Религиозные",Три ангела
+http://hls.peers.tv/streaming/tri_angela/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Туапсе24
+http://hls.peers.tv/streaming/tuapse24/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Тюменское Время
+http://hls.peers.tv/streaming/tyumen/16/variable.m3u8
+#EXTINF:-1 group-title="Познавательные",Усадьба
+http://hls.peers.tv/streaming/usadba/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Успех
+http://hls.peers.tv/streaming/uspex/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол
+http://hls.peers.tv/streaming/futbol/16/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Футбол
+http://hls.peers.tv/streaming/futbol/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Центр Красноярск (Красноярск)
+http://hls.peers.tv/streaming/ckry/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Центральные",Центральное телевидение
+http://hls.peers.tv/streaming/tvc_ctv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Че
+http://hls.peers.tv/streaming/perec/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Шадр-Инфо (Шадринск)
+http://hls.peers.tv/streaming/shadr_info/126/copy/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://hls.peers.tv/streaming/shanson/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Эврика HD
+http://hls.peers.tv/streaming/hd_eureka/16/copy/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",Эхо-ТВ
+http://hls.peers.tv/streaming/echotv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ю
+http://hls.peers.tv/streaming/utv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные",Ювелирочка
+http://hls.peers.tv/streaming/yuvelirochka/16/variable.m3u8
+#EXTINF:-1 group-title="Развлекательные",Юмор TV
+http://hls.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",Юрган
+http://hls.peers.tv/streaming/yurgan/16/copy/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",Якутия 24
+http://hls.peers.tv/streaming/yakutiya24/16/copy/playlist.m3u8
+
+
+
